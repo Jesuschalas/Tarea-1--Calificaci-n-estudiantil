@@ -1,0 +1,11 @@
+C:\Trabajo c#\Ejemplo-1\bin\Debug\Ejemplo-1.exe.config
+C:\Trabajo c#\Ejemplo-1\bin\Debug\Ejemplo-1.exe
+C:\Trabajo c#\Ejemplo-1\bin\Debug\Ejemplo-1.pdb
+C:\Trabajo c#\Ejemplo-1\obj\Debug\Ejemplo-1.csproj.AssemblyReference.cache
+C:\Trabajo c#\Ejemplo-1\obj\Debug\Ejemplo_1.Form1.resources
+C:\Trabajo c#\Ejemplo-1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+C:\Trabajo c#\Ejemplo-1\obj\Debug\Ejemplo-1.csproj.GenerateResource.cache
+C:\Trabajo c#\Ejemplo-1\obj\Debug\Ejemplo-1.csproj.CoreCompileInputs.cache
+C:\Trabajo c#\Ejemplo-1\obj\Debug\Ejemplo-1.exe
+C:\Trabajo c#\Ejemplo-1\obj\Debug\Ejemplo-1.pdb
+C:\Trabajo c#\Ejemplo-1\obj\Debug\Ejemplo-1.exe.config
