@@ -67,22 +67,27 @@ Resultado del extraordinario:
 El sistema inicia sin datos ingresados y con los campos de completivo y extraordinario deshabilitados.
 
 ![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20230551.png)
+
 📷 Escenario 2: Aprobado directo
 Se ingresan las cuatro notas y el promedio es mayor a 69, mostrando el mensaje "Aprobado".
 
 ![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20230653.png)
+
 📷 Escenario 3: Promedio reprobado
 El promedio es menor o igual a 69 y se habilita el campo para ingresar la nota del completivo.
 
 ![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20232057.png)
+
 📷 Escenario 4: Aprobado por completivo
 El estudiante aprueba luego de calcular la nota final del completivo.
 
 ![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20232230.png)
+
 📷 Escenario 5: Reprobado en completivo
 El estudiante no alcanza la nota mínima en el completivo y se habilita el campo de extraordinario.
 
 ![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20232320.png)
+
 📷 Escenario 6: Aprobado por extraordinario
 El estudiante aprueba tras calcular la nota final del extraordinario.
 
