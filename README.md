@@ -65,7 +65,7 @@ Resultado del extraordinario:
 
 📷 Escenario 1: Formulario vacío
 El sistema inicia sin datos ingresados y con los campos de completivo y extraordinario deshabilitados.
-https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20230551.png
+![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20230551.png)
 📷 Escenario 2: Aprobado directo
 Se ingresan las cuatro notas y el promedio es mayor a 69, mostrando el mensaje "Aprobado".
 https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20230653.png
