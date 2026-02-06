@@ -93,7 +93,7 @@ El estudiante aprueba tras calcular la nota final del extraordinario.
 
 📷 Escenario 7: Reprobado definitivo
 El estudiante no alcanza la nota mínima en ninguna de las evaluaciones y el sistema muestra el mensaje "Reprobador".
-
+![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/01fc1512f6bbabbd055a4f87da3fa604e494a36e/Captura%20de%20pantalla%202026-01-28%20232320.png)
 ▶️ Uso o Ejecución
 
 Abrir el proyecto en Visual Studio.
