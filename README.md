@@ -76,7 +76,8 @@ Se ingresan las cuatro notas y el promedio es mayor a 69, mostrando el mensaje "
 📷 Escenario 3: Promedio reprobado
 El promedio es menor o igual a 69 y se habilita el campo para ingresar la nota del completivo.
 
-![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20232057.png)
+![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/b0dcedc1cc660cfa44b62bb9cfe7ecbfe47b9e59/Captura%20de%20pantalla%202026-01-28%20230840.png)
+(https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/9f0295e2c2b1d2f6845f30703705299fe35d5949/Captura%20de%20pantalla%202026-01-28%20232057.png)
 
 📷 Escenario 4: Aprobado por completivo
 El estudiante aprueba luego de calcular la nota final del completivo.
