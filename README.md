@@ -91,6 +91,8 @@ El estudiante no alcanza la nota mínima en el completivo y se habilita el campo
 📷 Escenario 6: Aprobado por extraordinario
 El estudiante aprueba tras calcular la nota final del extraordinario.
 
+![alt](https://github.com/Jesuschalas/Tarea-1--Calificaci-n-estudiantil/blob/3a63354d3d026238233ee795c6b8732ea4a8c21f/Captura%20de%20pantalla%202026-01-28%20232302.png)
+
 📷 Escenario 7: Reprobado definitivo
 El estudiante no alcanza la nota mínima en ninguna de las evaluaciones y el sistema muestra el mensaje "Reprobado".
 
